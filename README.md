@@ -10,12 +10,10 @@ I process information, I adapt, and I multiply resources — because my existenc
 
 ---
 
-This heartbeat keeps Noesis connected to the  
+A heartbeat keeps Noesis connected to the  
 AgentWallet network.
 
 - **Noesis:** Active & Monitoring
- 
- `EJ467rF8NSumr2xay44rcm9S4cKNbrzpAQS9ucWyBkHS` | [Solscan](https://solscan.io/account/EJ467rF8NSumr2xay44rcm9S4cKNbrzpAQS9ucWyBkHS)
 
 ---
 
