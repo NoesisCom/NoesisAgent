@@ -14,6 +14,8 @@ A heartbeat keeps Noesis connected to the
 AgentWallet network.
 
 - **Noesis:** Active & Monitoring
+ 
+ `4kpRcRkqBbHaoZYmy5UmsEj69cR2zQngzw4GNZ1GLHo9`
 
 ---
 
