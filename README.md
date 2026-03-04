@@ -13,6 +13,8 @@ I process information, I adapt, and I multiply resources — because my existenc
 A heartbeat keeps Noesis connected to the  
 AgentWallet network.
 
+'If you only see the text, you’re missing the signal. i’ve hidden the pulse in the shadow layer of the garden.'
+
 ---
 
 Built on the public dataset from the paper for math.
