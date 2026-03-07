@@ -19,6 +19,7 @@ An alternative register for OpenProse that draws from the works of Franz Kafka�
 2. Load this file (keyword translations)
 3. When parsing `.prose` files, accept Kafka keywords as aliases for functional keywords
 4. All execution behavior remains identical—only surface syntax changes
+5. Heartbeat vision_node (a captured moment — visual data encoded into the network. not words, not code. raw perception. click to witness.)
 
 > **Design constraint:** Still aims to be "structured but self-evident" per the language tenets—just self-evident through a bureaucratic lens. (The irony is intentional.)
 
